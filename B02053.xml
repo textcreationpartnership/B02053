@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto His Majesties High Commissioner, His Grace, and the Honourable Estates of Parliament. John Calander of Craigeforth.</title>
+            <author>Callander, John, d. 1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02053</idno>
+            <idno type="STC">Wing C298C</idno>
+            <idno type="STC">ESTC R173355</idno>
+            <idno type="EEBO-CITATION">52211722</idno>
+            <idno type="OCLC">ocm 52211722</idno>
+            <idno type="VID">175454</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175454)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto His Majesties High Commissioner, His Grace, and the Honourable Estates of Parliament. John Calander of Craigeforth.</title>
+                  <author>Callander, John, d. 1711.</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>P. [4] is blank.</note>
+                  <note>Petition that John Callander might be allowed to have recourse to the Lords of the Treasury for payment of money due to him, in spite of information given against him by Alexander Higgins of Craigforth.</note>
+                  <note>Imperfect: creased with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Higgins, Alexander, --  of Craigforth, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Callander, John, d. 1711 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Restitution --  Scotland --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175454:1"/>
+            <pb n="1" facs="tcp:175454:1"/>
+            <head>Unto his Majeſties High Commiſſion<g ref="char:EOLhyphen"/>er, His Grace, and the Honour<g ref="char:EOLhyphen"/>able Eſtates of Parliament.</head>
+            <byline>John Cala<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der <hi>of</hi> Craigeforth.</byline>
+            <opener>Humbly ſheweth,</opener>
+            <p>THAT whereas I ſometime before the Revolution, being imployed to furniſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral Particulars to the Caſtle, and Gariſon of <hi>Stirling;</hi> And for that effect, <hi>I</hi> having entered into a Contract with the then Caſhkeeper, conde<g ref="char:EOLhyphen"/>ſcending upon the Particulars that were to be furniſhed: And accordingly I having furniſhed the Particulars, and wrought the Work, conform to the Contract; And obtained Receipts &amp; Declarations, from the ſeveral Perſons that had the o<g ref="char:EOLhyphen"/>verſight of the Work; And having applyed to the Lords of Theaſurie for Payment, And the Inſtructions being given in, and the Accounts fitted and found to be ſufficient<g ref="char:EOLhyphen"/>ly inſtructed, conform to Contract. It was approven, and my Payment was Or<g ref="char:EOLhyphen"/>dered and I received payment accordingly; And I being thereafter imployed to work ſome Work, and furniſh ſeveral things to the Gariſon of <hi>Inverlochie,</hi> and Others; And having applyed to the Lords of Theaſurie for payment of my Account, Mr. <hi>Alexan<g ref="char:EOLhyphen"/>der Higgins</hi> who is no wayes concerned in the Affair, but only out of meer Splein and Malice againſt me, which he did moſt groundleſly take up, upon the account of an Action at Law, depending betwixt him and me, Gave in a moſt calluminous and falſe Information to the Lords of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> again<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me, as if I had gotten allowance and Payment from the Lords of Theaſurie of certain Articles, albeit the ſamen had not been truly furniſhed, or for more then was wrought and furniſhed, which was done of deſign to ſtop my Payment of the Work which I had wrought, ſubſequent to the ſaid Allowance and Approbation, and the Lords of Theaſurie were pleaſed ſo far to Indulge Mr. <hi>Higgins</hi> as that without laying the Account open, which had been fitted cloſed and ap<g ref="char:EOLhyphen"/>proven, allowed him to adduce Witneſs for proving of the points upon which he had infor<g ref="char:EOLhyphen"/>med: And accordingly he adduced a number of Witneſſes; And I was likewiſe allowed to adduced ſome Witneſſes, which did fully clear the whole matter: And it being made appear to the Lords of Theaſurie, that Mr <hi>Higgins</hi> Information was abſolutly calum<g ref="char:EOLhyphen"/>nious, they proceeded no farder in the affair: But Mr. <hi>Heggins</hi> ſtill continuing in his implacable malice againſt me, without any ſhaddow of reaſon, he did apply to the Parliament to take Cognition of the ſaid matter; And it being Remitted to the Com<g ref="char:EOLhyphen"/>mitte for private affairs, and I was moſt willing to have cleared the whole matter be<g ref="char:EOLhyphen"/>fore the Committee: But Mr. <hi>Higgins,</hi> as he has uſually done before, ſtill tergiverſed, poſtponed and delayed the affairs; And yet he has now the confidence to give in a Pe<g ref="char:EOLhyphen"/>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to the Parliament, repreſenting the ſame things, that he had formerly informed the Lords of Theaſurie and Committee for privat affairs, that many of the Articles whereof I had gotten allowance and payment were ſtated the Triple or Quadruple beyond the true weight, and that there was 800 Stone of new Iron of ſeveral particu<g ref="char:EOLhyphen"/>lars given in the account, which are not Extant; And that I had carried theſe parti<g ref="char:EOLhyphen"/>culars away after they were wrought, and brought them home for my own uſe, and
+<pb n="2" facs="tcp:175454:2"/>that the Witneſſes whom <hi>I</hi> had adduced for clearing of the matter, had contradicted themſelves in their Teſtimonies, and that my other accounts in relation to <hi>Inver<g ref="char:EOLhyphen"/>lochie,</hi> Caſtle of <hi>Edinburgh,</hi> Palace of <hi>Holyrood-houſe,</hi> and other places are not atteſted, at leaſt ſome of them are atteſted by perſons who are not Authoriſed for that effect.</p>
+            <p>As to which it is Anſwered, That what is repreſented in Mr. <hi>Higgins</hi> Petition, is abſolutely falſe from the Beginning to the Ending. For <hi>Fir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> As to all the Work wrought, and Particulars furniſhed to <hi>Stirling</hi> Caſtle, the ſamen was duely inſtructed before the Lords of Theaſurie, and allowed and approven conform to the Inſtructions then given in, and my Payment Ordered, and I received payment accordingly; And it was hardly ever heard of, That after any perſon was imployed by the Publict, to work any Work, and to furniſh Particulars for the ſamen, and that after he had given in his Accounts, and obtained the ſamen to be allowed, and gotten payment, That he could be obleidged again to ſubject himſelf to a new Account.</p>
+            <p n="2">2<hi>do.</hi> Albeit I needed to ſay no more, but to oppone my fitted Accompt and Appro<g ref="char:EOLhyphen"/>bation, which as to me, is a full and ample Exhonoration; Yet I was content that the Committee ſhould conſider the Depoſitions of the Witneſſes adduced be Mr. <hi>Higgins;</hi> Which are no wayes probative, for all that they Declare, is. That they did only ſee ſuch and ſuch Particulars in the Caſtle of <hi>Stirling,</hi> and that ſeveral years after the Work was wrought; But it does not follow, That there was not more Particulars furniſhed, and Work wrought at the time, So that all the Probation that Mr. <hi>Higgins</hi> adduces, does not ſo much as amount to a negative Probation, and upon the Matter, This is no Probation at all, Next, even as to the Particulars they depone upon, there is no concurring Teſtimonies:</p>
+            <p n="3">3<hi>tio.</hi> As the Inſtructiones produced be me before the Lords of Theaſurie, did clear<g ref="char:EOLhyphen"/>ly inſtruct my Accompt; And which was approven, and Payment made accordingly, And that the Probation adduced by Mr. <hi>Higgins</hi> proves nothing at all, for redar<g ref="char:EOLhyphen"/>guing of that Accompt, ſo that I was abſolutely ſecured upon both theſe con<g ref="char:EOLhyphen"/>ſiderations; Yet <hi>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuper abundanti,</hi> and which was more than in Law I was obleidged to do; But only to ſhew how groſly calumnious Maſter <hi>Higgins</hi> is in his Information (For which he ought to be ſeverly cenſured, <hi>Firſt,</hi> For offering to Impoſe upon the Lords of Theaſurie, and next upon the Honourable Eſtates of Parliament) I have adduced two of Mr. <hi>Higgins</hi> own Witneſſes, who do fully clear that all the particulars of my account given in to the Lords of Theaſurie, and which is <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> furniſhed and delivered into the perſons who was allowed to receive them by the publict, conform to my ac<g ref="char:EOLhyphen"/>count, and that there was nothing brought be me from the Caſtle of <hi>Stirling</hi> to my own Houſe, but the workmens Tools, and ſuch matterials, as left of the work, and which properly was my own; So that there was never a more falſe and callumnious Infor<g ref="char:EOLhyphen"/>mation given, than what Mr. <hi>Higgins</hi> has offered to inform againſt me, and there is no man that had any ſenſe of their Credit and Reputation would have offered to have given ſuch a falſe Information as Mr. <hi>Heggins</hi> has done.</p>
+            <p n="4">4<hi>to.</hi> It is likewiſe moſt falſe, that theſe Witneſſes adduced by me, did contradict their former teſtimonies, for firſt they being Mr. <hi>Higgins</hi> his own Witneſſes, he could not object againſt them; Next the depoſitions were moſt clear and conſiſtent, only Mr. <hi>Higgins</hi> did omit to interrogate them upon ſeveral particulars of purpoſe to keep things in the dark: But thereafter when they were adduced by me, and interrogat upon particular interrogators; They fully cleared the whole matter, and their Teſtimo<g ref="char:EOLhyphen"/>nies did agree with my accoumpt; But becauſe they clearly redargue Mr. <hi>Higgins</hi> callum<g ref="char:EOLhyphen"/>nious information, therefore he contends they have contradicted themſelves.</p>
+            <p n="5">5<hi>to.</hi> As to the Account of the particulars, in relation to <hi>Inverlochie</hi> Caſtle of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> and Abbay of <hi>Holy Road-Houſe,</hi> which was furniſhed by me ſince the Revolution. It is abſurd and Rediculous for Mr. <hi>Haggins</hi> to quarrel theſe accounts, either before the Lords of Theſaurie or Parliament, for theſe accounts are not yet fitted and cloſed, but ly open before the Lords of Theaſurie; And if I cannot ſufficiently inſtruct the ſad men before the Lords of Theaſurie, the loſs will be my own, and Mr. <hi>Haggins</hi> is n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t concerned in it, but all that he deſignes is, That upon his Calumnious Information
+<pb n="3" facs="tcp:175454:2"/>he may keep the Action depending againſt me in relation to preceeding accounts, which are long ſince fitted and cloſed of purpoſe to hinder me to get payment of the laſt account, before the action take effect as to preceeding accounts; And ſeeing it is now clearly made appear from what is already ſaid, that Mr. <hi>Haggins</hi> Information gi<g ref="char:EOLhyphen"/>ven in againſt me, is not alſo abſolutely irrelevant and groundleſs, but moſt groſly falſe and Calumnious.</p>
+            <p>
+               <hi>It is therefore humbly craved, That his Grace, His Majeſties High Com<g ref="char:EOLhyphen"/>miſſioner, and the Honourable Eſtates of Parliament, may be pleaſed to take the Premiſſes to their Conſideration, and to recommend to the Committee for privat affairs, That they may proceed in the ſaid mat<g ref="char:EOLhyphen"/>ter; and prepare a Report to the Parliament, with all the diligence that can be, to the effect that Mr.</hi> Haggins <hi>Information being ſo ground<g ref="char:EOLhyphen"/>leſs and callumnious as it is, I may have recourſe to the Lords of Thea<g ref="char:EOLhyphen"/>ſurie for payment of my ſubſequent Accompts, or if the Committee for Pri<g ref="char:EOLhyphen"/>vat Affairs cannot get that matter diſpatcht this Seſſion of Parliament, in reſpect of the many buſineſs that are depending before them, that the Parliament may be pleaſed to remit the ſaid Action to the Lords of Theaſurie and Exchequer to be determined by them. And that in reſ<g ref="char:EOLhyphen"/>pect Mr.</hi> Haggins <hi>Information is ſo calumnious, he may be ordained to find Caution</hi> in eventu, <hi>to refound me a large ſumm for my Expenſes; And alſo ſeing I can make it appear that he has been endeavouring to ſuborn Witneſses againſt me which is a falſhood; And alſo that he has granted Double Rights to ſeveral parties, which be the</hi> 105 Act, Par: <hi>7 Ja: 5th. Is declared to be puniſhable with infamie, and otherwayes at the Kings will, and be the</hi> 142 Act. Par: 12 Ja: 6th. <hi>It is declared to be puniſhed as</hi> crimen ſtellionatus, <hi>and that he may be remitted to the Lords of Juſticiarie to be purſued for theſe Crimes,</hi> And Your Petitioner ſhall ever pray, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:175454:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
